@@ -1,0 +1,2 @@
+/home/kiro/repos/mdlviewer/build/CMakeFiles/edit_cache.dir
+/home/kiro/repos/mdlviewer/build/CMakeFiles/rebuild_cache.dir
